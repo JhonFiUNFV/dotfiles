@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = asrodeno18@gmail.com
+	name = Jhon FIgueroa
